@@ -227,7 +227,7 @@ header {
     border-radius: 0px 0px 4px 4px;
    
 }
-.team:hover {
+.worker:hover {
     list-style-type: none;
     display: flex;
     justify-content: space-around;
